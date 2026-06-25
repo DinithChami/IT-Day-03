@@ -22,12 +22,30 @@ body{
 .saman-h1 {
     background-color: red;
     color: white;
+    text-align: center;
+    /* padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px; */
+    /* padding: 20px 10px 20px 10px; */
+    padding: 50px; 
+
+    border: 5px solid black;
+    border-radius: 50px;
+    border-style: groove;
+
+    margin: 50px;
+    
 }
 
 .icet-h1 {
     background-color: blue;
     color: white;
+    font-family:cursive;
+    font-size: xx-large;
     text-align: center;
+    letter-spacing:0.2cm;
+    text-decoration: underline dashed;
 }
 
 #pg-background{
@@ -35,8 +53,8 @@ body{
     background-color: aqua;
 }
 
-*{
+/* *{
     background-color: black;
     margin: 0;
     padding: 0;
-}
+} */
