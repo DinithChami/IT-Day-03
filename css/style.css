@@ -19,13 +19,18 @@ body{
 }
 */
 
-.saman-h1{
+.saman-h1 {
     background-color: red;
     color: white;
 }
 
-.icet-h1{
+.icet-h1 {
     background-color: blue;
     color: white;
     text-align: center;
+}
+
+#pg-background{
+    color: crimson;
+    background-color: aqua;
 }
