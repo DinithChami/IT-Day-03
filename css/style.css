@@ -71,10 +71,14 @@ body{
     width: 50px;
     height: 50px;
     background-color: brown;
-    position: relative;
+    /* position: static; */
+    position:sticky ;
+    /* position: fixed; */
     /* position: absolute; */
     top: 10px;
     left: 80px;
+    z-index: -1;
+
 
 }
 
