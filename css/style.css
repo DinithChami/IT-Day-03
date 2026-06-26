@@ -48,9 +48,15 @@ body{
     text-decoration: underline dashed;
 }
 
-#pg-background{
+#pg1-background{
     color: crimson;
     background-color: aqua;
+}
+
+#pg2-background{
+    color: yellow;
+    background-color: purple;
+    margin: 10px;
 }
 
 body{
@@ -60,6 +66,26 @@ body{
     background-attachment: fixed;
     background-position: center;
 }
+
+#box01{
+    width: 50px;
+    height: 50px;
+    background-color: brown;
+    position: relative;
+    /* position: absolute; */
+    top: 10px;
+    left: 80px;
+
+}
+
+#box02{
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    background-color: blue;
+}
+
+
 
 /* *{
     background-color: black;
